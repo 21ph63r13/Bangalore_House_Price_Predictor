@@ -6,6 +6,14 @@ The Bangalore House Price Predictor is a machine learning-based web application 
 
 This project is deployed on Render and allows users to estimate house prices interactively.
 
+🔗 Live Demo
+
+Check out the deployed app on Render: https://bangalore-house-price-predictor-ftlh.onrender.com/
+
+![Screenshot 2025-03-06 154353](https://github.com/user-attachments/assets/f73e654a-d294-45d3-b7f6-d7702dba6302)
+
+
+
 ## Dataset
 
 The dataset used for this project contains 6798 entries with the following features:
